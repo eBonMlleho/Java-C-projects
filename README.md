@@ -1,4 +1,4 @@
-# small-java-projects
+# small-java/c-projects
 
 ## project list:
 
