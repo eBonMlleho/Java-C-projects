@@ -1,5 +1,5 @@
 # small-java/c-projects
-see each report for more details
+See each report for more details
 ## project list:
 
 Programming Practice on Basic Crypto
